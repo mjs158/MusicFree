@@ -98,19 +98,25 @@
 
 如果有需要讨论的新需求，可以在公众号后台留言/提issue/或者去discussion开个话题。
 
-MusicFree插件地址
+MusicFree插件地址:
 测试接口
 https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json
+
 综合接口零
 https://musicfreepluginshub.2020818.xyz/plugins.json
+
 综合接口一
 https://fastly.jsdelivr.net/gh/Huibq/keep-alive/Music_Free/myPlugins.json
+
 综合接口二
 https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json
+
 综合接口三
 https://musicfreepluginshub.2020818.xyz/plugins.json
+
 综合接口四
 https://gitlab.com/acoolbook/musicfree/-/raw/main/music.json
+
 
 ---
 本项目仅供学习参考使用，基于 AGPL3.0 协议开源；请在符合法律法规的情况下合理使用本项目，禁止用于商业目的使用。
