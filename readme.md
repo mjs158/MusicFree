@@ -98,25 +98,19 @@
 
 如果有需要讨论的新需求，可以在公众号后台留言/提issue/或者去discussion开个话题。
 
-## 支持这个项目
-
-如果你喜欢这个项目，或者希望我可以持续维护下去，你可以通过以下任何一种方式支持我;)
-
-1. Star 这个项目，分享给你身边的人；
-2. 关注公众号👇或 b 站 [不想睡觉猫头猫](https://space.bilibili.com/12866223) 获取最新信息；
-3. 关注猫头猫的 [小红书](https://www.xiaohongshu.com/user/profile/5ce6085200000000050213a6?xhsshare=CopyLink&appuid=5ce6085200000000050213a6&apptime=1714394544)，虽然可能不会在这里更新软件相关的信息，但也算支持啦~
-
-![微信公众号](./src/assets/imgs/wechat_channel.jpg)
-
-感谢以下小伙伴的推荐，很意外也很惊喜 ~~~
-
-来自**果核剥壳**的安利~ <https://mp.weixin.qq.com/s/F6hMbLv_a-Ty0fPA_0P0Rg>
-
-来自**小棉袄**的安利~ <https://mp.weixin.qq.com/s/Fqe3o7vcTw0KDKoB-gsQfg>
-
-## ChangeLog
-
-[点击这里](./changelog.md)
+MusicFree插件地址
+测试接口
+https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json
+综合接口零
+https://musicfreepluginshub.2020818.xyz/plugins.json
+综合接口一
+https://fastly.jsdelivr.net/gh/Huibq/keep-alive/Music_Free/myPlugins.json
+综合接口二
+https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json
+综合接口三
+https://musicfreepluginshub.2020818.xyz/plugins.json
+综合接口四
+https://gitlab.com/acoolbook/musicfree/-/raw/main/music.json
 
 ---
 本项目仅供学习参考使用，基于 AGPL3.0 协议开源；请在符合法律法规的情况下合理使用本项目，禁止用于商业目的使用。
